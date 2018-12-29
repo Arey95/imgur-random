@@ -1,0 +1,11 @@
+img {
+    position: absolute;
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.image {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
